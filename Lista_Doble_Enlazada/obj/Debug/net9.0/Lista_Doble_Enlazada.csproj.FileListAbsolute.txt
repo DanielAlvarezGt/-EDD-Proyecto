@@ -1,0 +1,14 @@
+/home/danielpc07/Documentos/Tareas/Lista_Doble_Enlazada/bin/Debug/net9.0/Lista_Doble_Enlazada
+/home/danielpc07/Documentos/Tareas/Lista_Doble_Enlazada/bin/Debug/net9.0/Lista_Doble_Enlazada.deps.json
+/home/danielpc07/Documentos/Tareas/Lista_Doble_Enlazada/bin/Debug/net9.0/Lista_Doble_Enlazada.runtimeconfig.json
+/home/danielpc07/Documentos/Tareas/Lista_Doble_Enlazada/bin/Debug/net9.0/Lista_Doble_Enlazada.dll
+/home/danielpc07/Documentos/Tareas/Lista_Doble_Enlazada/bin/Debug/net9.0/Lista_Doble_Enlazada.pdb
+/home/danielpc07/Documentos/Tareas/Lista_Doble_Enlazada/obj/Debug/net9.0/Lista_Doble_Enlazada.GeneratedMSBuildEditorConfig.editorconfig
+/home/danielpc07/Documentos/Tareas/Lista_Doble_Enlazada/obj/Debug/net9.0/Lista_Doble_Enlazada.AssemblyInfoInputs.cache
+/home/danielpc07/Documentos/Tareas/Lista_Doble_Enlazada/obj/Debug/net9.0/Lista_Doble_Enlazada.AssemblyInfo.cs
+/home/danielpc07/Documentos/Tareas/Lista_Doble_Enlazada/obj/Debug/net9.0/Lista_Doble_Enlazada.csproj.CoreCompileInputs.cache
+/home/danielpc07/Documentos/Tareas/Lista_Doble_Enlazada/obj/Debug/net9.0/Lista_Doble_Enlazada.dll
+/home/danielpc07/Documentos/Tareas/Lista_Doble_Enlazada/obj/Debug/net9.0/refint/Lista_Doble_Enlazada.dll
+/home/danielpc07/Documentos/Tareas/Lista_Doble_Enlazada/obj/Debug/net9.0/Lista_Doble_Enlazada.pdb
+/home/danielpc07/Documentos/Tareas/Lista_Doble_Enlazada/obj/Debug/net9.0/Lista_Doble_Enlazada.genruntimeconfig.cache
+/home/danielpc07/Documentos/Tareas/Lista_Doble_Enlazada/obj/Debug/net9.0/ref/Lista_Doble_Enlazada.dll

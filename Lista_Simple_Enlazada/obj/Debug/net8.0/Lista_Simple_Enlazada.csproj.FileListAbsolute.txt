@@ -1,0 +1,14 @@
+/home/danielpc07/Documentos/Tareas/Lista_Simple_Enlazada/bin/Debug/net8.0/Lista_Simple_Enlazada
+/home/danielpc07/Documentos/Tareas/Lista_Simple_Enlazada/bin/Debug/net8.0/Lista_Simple_Enlazada.deps.json
+/home/danielpc07/Documentos/Tareas/Lista_Simple_Enlazada/bin/Debug/net8.0/Lista_Simple_Enlazada.runtimeconfig.json
+/home/danielpc07/Documentos/Tareas/Lista_Simple_Enlazada/bin/Debug/net8.0/Lista_Simple_Enlazada.dll
+/home/danielpc07/Documentos/Tareas/Lista_Simple_Enlazada/bin/Debug/net8.0/Lista_Simple_Enlazada.pdb
+/home/danielpc07/Documentos/Tareas/Lista_Simple_Enlazada/obj/Debug/net8.0/Lista_Simple_Enlazada.GeneratedMSBuildEditorConfig.editorconfig
+/home/danielpc07/Documentos/Tareas/Lista_Simple_Enlazada/obj/Debug/net8.0/Lista_Simple_Enlazada.AssemblyInfoInputs.cache
+/home/danielpc07/Documentos/Tareas/Lista_Simple_Enlazada/obj/Debug/net8.0/Lista_Simple_Enlazada.AssemblyInfo.cs
+/home/danielpc07/Documentos/Tareas/Lista_Simple_Enlazada/obj/Debug/net8.0/Lista_Simple_Enlazada.csproj.CoreCompileInputs.cache
+/home/danielpc07/Documentos/Tareas/Lista_Simple_Enlazada/obj/Debug/net8.0/Lista_Simple_Enlazada.dll
+/home/danielpc07/Documentos/Tareas/Lista_Simple_Enlazada/obj/Debug/net8.0/refint/Lista_Simple_Enlazada.dll
+/home/danielpc07/Documentos/Tareas/Lista_Simple_Enlazada/obj/Debug/net8.0/Lista_Simple_Enlazada.pdb
+/home/danielpc07/Documentos/Tareas/Lista_Simple_Enlazada/obj/Debug/net8.0/Lista_Simple_Enlazada.genruntimeconfig.cache
+/home/danielpc07/Documentos/Tareas/Lista_Simple_Enlazada/obj/Debug/net8.0/ref/Lista_Simple_Enlazada.dll
