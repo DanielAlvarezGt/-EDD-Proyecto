@@ -1,0 +1,14 @@
+[
+    {
+        "ID": 1,
+        "Repuesto": "Llanta",
+        "Detalles": "Llanta para Toyota Corolla 2015",
+        "Costo": 100
+    },
+    {
+        "ID": 2,
+        "Repuesto": "Filtro de aire",
+        "Detalles": "Filtro de aire para Nissan Sentra 2018",
+        "Costo": 50
+    }
+]

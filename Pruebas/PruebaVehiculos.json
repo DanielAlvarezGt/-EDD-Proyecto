@@ -1,0 +1,19 @@
+
+[
+    {
+        "ID": 1,
+        "ID_Usuario": 1,
+        "Marca": "Toyota",
+        "Modelo": "Corolla",
+        "Placa": "ABC123",
+        "Año": 2015
+    },
+    {
+        "ID": 2,
+        "ID_Usuario": 2,
+        "Marca": "Nissan",
+        "Modelo": "Sentra",
+        "Placa": "DEF456",
+        "Año": 2018
+    }
+]
